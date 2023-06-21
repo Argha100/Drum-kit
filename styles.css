@@ -2,6 +2,16 @@ body {
   text-align: center;
   background-color: #283149;
 }
+.dark-mode{
+  background-color: black;
+  color: white;  
+}
+.btn{
+  cursor: pointer;
+  position: absolute;
+  right: 5%;
+
+}
 
 h1 {
   font-size: 5rem;

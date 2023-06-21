@@ -79,3 +79,8 @@ function buttonAnimation(currentKey) {
   }, 100);
 
 }
+
+function myfunction(){
+  let element=document.body;
+  element.classList.toggle("dark-mode");
+}
